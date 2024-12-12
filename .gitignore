@@ -1,0 +1,12 @@
+.env
+.venv
+venv
+.idea
+__pycache__
+data/contacts.json
+data/token.json
+data/valid_proxies.json
+data/proxies.json
+data/prospects.json
+data/emails.json
+data/email_address.json
